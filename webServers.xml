@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="4fb5a53c-2760-49d7-b777-51ed09c04228" name="office-planet" url="https://tsybin.office-planet.ru">
+        <fileTransfer rootFolder="/var/www/project/tests/test.office-planet.ru" accessType="SFTP" host="10.136.252.171" port="22" sshConfigId="3aa9ed57-943b-44f6-8de7-e383a280a142" sshConfig="tsybin@10.136.252.171:22 key" keyPair="true">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
